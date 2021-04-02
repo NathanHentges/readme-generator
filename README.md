@@ -10,17 +10,18 @@ Since many README files follow the same format, this template will help speed up
 
 After it's generated, the user can still go in and make changes.
 
-Below is a demonstration of the program running.
+A demonstration of the program running can be found here:
+[assets/demonstration-video.mp4](assets/demonstration-video.mp4)
 
-The resulting file can be found [here](assets/generated-README.md)
+The resulting file can be found here [assets/generated-README.md](assets/generated-README.md).
 
-![Preview Video](assets/demonstration-video.mp4)
+Below is a screenshot from the video; the final result and commandline history.
+
+![Result preview](assets/result-preview.png)
 
 ## Table of Contents
-If your README is long, add a table of contents to make it easy for users to find what they need.
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
@@ -29,7 +30,6 @@ If your README is long, add a table of contents to make it easy for users to fin
 - Download or clone this repository from GitHub
 - Using NPM, install the necessary dependencies
 - Double check all the files and dependency requirements are met
-
 
 ## Usage
 - To run the program, enter "node index.js" into the console at the root folder of the repository
@@ -54,3 +54,6 @@ If your README is long, add a table of contents to make it easy for users to fin
 My GitHub is [NathanHentges](http://www.github.com/NathanHentges)
 
 You can also [email me](mailto:myemail@site.com) for further questions.
+
+## Notes
+F
