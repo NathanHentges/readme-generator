@@ -1,5 +1,4 @@
-# Readme Generator
-
+# readme-generator
 
 ## Description
 This program will generate a README file based on data you input.
@@ -56,4 +55,6 @@ My GitHub is [NathanHentges](http://www.github.com/NathanHentges)
 You can also [email me](mailto:myemail@site.com) for further questions.
 
 ## Notes
-F
+README format based on [this guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+
+License Badge used from [lukas-h/license-badges.md](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
